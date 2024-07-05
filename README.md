@@ -1,6 +1,6 @@
 <h1 align="center">Weather App </h1>
 <h3 align="center">Hi 👋, I'm Deeptha Ranaweera.This is my first React project</h3>
-<img align="right" alt="coding" width="500" src="Untitledvideo-MadewithClipchamp-ezgif.com-video-to-gif-converter.gif">
+<img align="right" alt="coding" width="500" src="Screenshot 2024-07-05 162541.png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deeptha99&label=Profile%20views&color=0e75b6&style=flat" alt="deeptha99" /> </p>
 
