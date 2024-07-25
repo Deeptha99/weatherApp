@@ -97,6 +97,11 @@
 
 /* Mobile responsiveness */
 @media (max-width: 600px) {
+    .container {
+        height: 90vh;
+        margin-top: 35px;
+    }
+
     .top-bar {
         padding-top: 30px;
     }
@@ -128,12 +133,12 @@
     }
 
     .data-container {
-        flex-direction: column;
+        flex-direction: row;
         align-items: center;
     }
 
     .element {
-        flex-direction: column;
+        flex-direction: row;
         align-items: center;
         gap: 8px;
     }
