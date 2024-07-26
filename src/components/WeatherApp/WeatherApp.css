@@ -98,7 +98,7 @@
 /* Mobile responsiveness */
 @media (max-width: 600px) {
     .container {
-        height: 90vh;
+        height: 80vh;
         margin-top: 35px;
     }
 
